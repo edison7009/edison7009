@@ -28,7 +28,7 @@
 
 — 02 · **Coffee CLI** · Claude Code · 让终端AI工具变成桌面级体验：粘贴图片 · 历史对话 · Git 树提交等。
 
-— 03 · **TierVibe** · Claude Code · Tier list + 社区，一键生成 TierList 榜单和短视频。
+— 03 · **TierVibe** · Claude Code · 从夯到拉 + 社区，一键生成 TierList 榜单和短视频。
 
 — 04 · **Open Longevity** · Codex · 长寿科技 × AI，让科学延寿普惠化。
 
