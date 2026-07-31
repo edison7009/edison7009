@@ -8,7 +8,7 @@
 
 — 01 · **EchoBird** — 把 Claude Code、ChatGPT 等的安装、本地大模型与模型切换，都化成一次幸福的点击
 
-— 02 · **Coffee-CLI** — 终端里的桌面级体验：粘贴图片 · 历史目录 · Git 树提交
+— 02 · **Coffee CLI** — 终端里的桌面级体验：粘贴图片 · 历史目录 · Git 树提交
 
 — 03 · **TierVibe** — Tier list + 社区，一键生成 TierList 短视频
 
