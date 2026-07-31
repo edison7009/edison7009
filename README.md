@@ -6,7 +6,7 @@
 
 **NOW** &nbsp;·&nbsp; Open Longevity — Longevity shouldn't be a luxury; we bring the light of life to every family.
 
-**GAP** &nbsp;·&nbsp; The world builds smarter AI; we build longer lives.
+**GAP** &nbsp;·&nbsp; The world builds smarter AI; I build the AI tools humanity truly needs.
 
 — 01 · **EchoBird** · Claude Code · Installing, model-switching, and local LLMs — all in one happy click.
 
@@ -22,7 +22,7 @@
 
 **NOW** &nbsp;·&nbsp; Open Longevity — 科学延寿，不应该是富豪专属，希望把生命之光同样带给普通家庭。
 
-**GAP** &nbsp;·&nbsp; 世界在造更聪明的 AI，我们在造更长的生命。
+**GAP** &nbsp;·&nbsp; 世界在造更聪明的 AI，我在造人类真正需要的 AI 工具。
 
 — 01 · **EchoBird** · Claude Code · 把 Claude Code、ChatGPT 等的安装、本地大模型与模型切换，都化成一次幸福的点击。
 
