@@ -22,8 +22,7 @@
 
 **NOW** &nbsp;·&nbsp; Open Longevity — 科学延寿，不应该是富豪专属，希望把生命之光同样带给普通家庭。
 
-> [!IMPORTANT]
-> **GAP** · 世界在造更聪明的 AI，我在造人类真正需要的 AI 工具。
+**GAP** &nbsp;·&nbsp; 世界在造更聪明的 AI，我在造人类真正需要的 AI 工具。
 
 — 01 · **EchoBird** · Claude Code · 把 Claude Code、ChatGPT 等的安装、本地大模型与模型切换，都化成一次幸福的点击。
 
