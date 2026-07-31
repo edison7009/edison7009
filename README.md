@@ -6,7 +6,7 @@
 
 **GAP** &nbsp;·&nbsp; everyone builds agents; I build for the century after
 
-— 01 · **EchoBird** — 一键安装、配置与模型切换，从 Claude Code 到国产 Agent 全覆盖 · 3.0k ★
+— 01 · **EchoBird** — 神话里衔着橄榄枝的飞鸟，把幸福送入千家万户；EchoBird 把 Claude Code、ChatGPT、本地大模型与模型切换，都化成一次幸福的点击
 
 — 02 · **Coffee-CLI** — 终端里的桌面级体验：粘贴图片 · 历史目录 · Git 树提交
 
