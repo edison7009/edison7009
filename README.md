@@ -16,6 +16,8 @@
 
 — 04 · **Open Longevity** · Codex · Longevity × AI — open, verifiable, for everyone.
 
+---
+
 **中文**
 
 **NOW** &nbsp;·&nbsp; Open Longevity — 科学延寿，不应该是富豪专属，希望把生命之光同样带给普通家庭。
@@ -29,6 +31,8 @@
 — 03 · **TierVibe** · Claude Code · Tier list + 社区，一键生成 TierList 榜单和短视频。
 
 — 04 · **Open Longevity** · Codex · 长寿科技 × AI，让科学延寿普惠化。
+
+---
 
 <p align="center">
   <a href="https://openlongevity.life">openlongevity.life</a> &nbsp;·&nbsp;
