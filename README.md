@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="banner.svg" width="100%" alt="edison7009 — building software for a longer, better life">
+  <img src="banner.svg" width="100%" alt="Edison7009 development works">
 </p>
 
 **EN**
-
-**NOW** &nbsp;·&nbsp; Open Longevity — Longevity shouldn't be a luxury; we bring the light of life to every family.
 
 **GAP** &nbsp;·&nbsp; The world builds smarter AI; I build the AI tools humanity truly needs.
 
@@ -16,11 +14,11 @@
 
 — 04 · **Open Longevity** · Codex · Longevity × AI — open, verifiable, for everyone.
 
+— 05 · **Coffee Note** · Codex · Building the most affordable AI note tool — deeply optimized for DeepSeek and caching, turning videos into text, then text into PPTs and videos.
+
 ---
 
 **中文**
-
-**NOW** &nbsp;·&nbsp; Open Longevity — 科学延寿，不应该是富豪专属，希望把生命之光同样带给普通家庭。
 
 **GAP** &nbsp;·&nbsp; 世界在造更聪明的 AI，我在造人类真正需要的 AI 工具。
 
@@ -32,11 +30,14 @@
 
 — 04 · **Open Longevity** · Codex · 长寿科技 × AI，让科学延寿普惠化。
 
+— 05 · **Coffee Note** · Codex · 打造最省钱的 AI 笔记工具，深度优化 DeepSeek 与缓存，视频转文字，文字再生成 PPT 和视频。
+
 ---
 
 <p align="center">
   <a href="https://openlongevity.life">openlongevity.life</a> &nbsp;·&nbsp;
   <a href="https://echobird.ai">echobird.ai</a> &nbsp;·&nbsp;
   <a href="https://coffeecli.com">coffeecli.com</a> &nbsp;·&nbsp;
-  <a href="https://tiervibe.com">tiervibe.com</a>
+  <a href="https://tiervibe.com">tiervibe.com</a> &nbsp;·&nbsp;
+  <a href="https://note.coffeecli.com">note.coffeecli.com</a>
 </p>
