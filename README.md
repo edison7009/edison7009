@@ -4,7 +4,7 @@
 
 **EN**
 
-**GAP** &nbsp;·&nbsp; The world builds smarter AI; I build the AI tools humanity truly needs.
+**GAP** &nbsp;·&nbsp; Model vendors chase smarter AI; I create the AI tools humanity truly needs.
 
 — 01 · **EchoBird** · Claude Code · Installing, model-switching, and local LLMs — all in one happy click.
 
@@ -20,7 +20,7 @@
 
 **中文**
 
-**GAP** &nbsp;·&nbsp; 世界在造更聪明的 AI，我在造人类真正需要的 AI 工具。
+**GAP** &nbsp;·&nbsp; 模型厂商在追赶更聪明的 AI，而我在创造人类真正需要的 AI 工具。
 
 — 01 · **EchoBird** · Claude Code · 把 Claude Code、ChatGPT 等的安装、本地大模型与模型切换，都化成一次幸福的点击。
 
