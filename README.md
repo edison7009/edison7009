@@ -14,7 +14,7 @@
 
 — 04 · **Open Longevity** · Codex · Longevity × AI — open, verifiable, for everyone.
 
-— 05 · **Coffee Note** · Codex · Building the most affordable AI note tool — deeply optimized for DeepSeek and caching, turning videos into text, then text into PPTs and videos.
+— 05 · **TierNote** · Codex · Building the most affordable AI note tool — deeply optimized for DeepSeek and caching, turning videos into text, then text into PPTs and videos.
 
 ---
 
@@ -30,7 +30,7 @@
 
 — 04 · **Open Longevity** · Codex · 长寿科技 × AI，让科学延寿普惠化。
 
-— 05 · **Coffee Note** · Codex · 打造最省钱的 AI 笔记工具，深度优化 DeepSeek 与缓存，视频转文字，文字再生成 PPT 和视频。
+— 05 · **TierNote** · Codex · 打造最省钱的 AI 笔记工具，深度优化 DeepSeek 与缓存，视频转文字，文字再生成 PPT 和视频。
 
 ---
 
@@ -39,5 +39,5 @@
   <a href="https://echobird.ai">echobird.ai</a> &nbsp;·&nbsp;
   <a href="https://coffeecli.com">coffeecli.com</a> &nbsp;·&nbsp;
   <a href="https://tiervibe.com">tiervibe.com</a> &nbsp;·&nbsp;
-  <a href="https://note.coffeecli.com">note.coffeecli.com</a>
+  <a href="https://tiernote.org/">tiernote.org</a>
 </p>
