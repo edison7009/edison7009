@@ -2,6 +2,11 @@
   <img src="banner.svg" width="100%" alt="Edison7009 development works">
 </p>
 
+<p align="center">
+  Follow me on <a href="https://x.com/Edison7009">X @Edison7009</a> for new projects and development updates.<br>
+  在 <a href="https://x.com/Edison7009">X 上关注我</a>，了解最新 AI 工具、项目进展与发布动态。
+</p>
+
 **EN**
 
 **GAP** &nbsp;·&nbsp; Model vendors chase smarter AI; I create the AI tools humanity truly needs.
