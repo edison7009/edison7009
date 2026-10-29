@@ -21,6 +21,8 @@
 
 — 05 · **TierNote** · Codex · Building the most affordable AI note tool — deeply optimized for DeepSeek and caching, turning videos into text, then text into PPTs and videos.
 
+— 06 · **TokenPet** · A little egg is waiting for you to hatch it with tokens.
+
 ---
 
 **中文**
@@ -37,6 +39,8 @@
 
 — 05 · **TierNote** · Codex · 打造最省钱的 AI 笔记工具，深度优化 DeepSeek 与缓存，视频转文字，文字再生成 PPT 和视频。
 
+— 06 · **TokenPet** · 一个小小的蛋，正在等待你用 Token 来孵化它。
+
 ---
 
 <p align="center">
@@ -44,5 +48,6 @@
   <a href="https://echobird.ai">echobird.ai</a> &nbsp;·&nbsp;
   <a href="https://coffeecli.com">coffeecli.com</a> &nbsp;·&nbsp;
   <a href="https://tiervibe.com">tiervibe.com</a> &nbsp;·&nbsp;
-  <a href="https://tiernote.org/">tiernote.org</a>
+  <a href="https://tiernote.org/">tiernote.org</a> &nbsp;·&nbsp;
+  <a href="https://tokenpet.ai/">tokenpet.ai</a>
 </p>
