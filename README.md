@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="banner.svg" width="100%" alt="Edison7009 development works">
+  <img src="assets/profile/header.svg" width="100%" align="top" alt="Edison7009 development works"><br>
+  <a href="https://echobird.ai"><img src="assets/profile/echobird.svg" width="30.625%" align="top" alt="EchoBird"></a><a href="https://coffeecli.com"><img src="assets/profile/coffee-cli.svg" width="19.375%" align="top" alt="Coffee CLI"></a><a href="https://tiervibe.com"><img src="assets/profile/tiervibe.svg" width="19.375%" align="top" alt="TierVibe"></a><a href="https://openlongevity.life"><img src="assets/profile/open-longevity.svg" width="30.625%" align="top" alt="Open Longevity"></a><br>
+  <a href="https://tiernote.org/"><img src="assets/profile/tiernote.svg" width="30.625%" align="top" alt="TierNote"></a><a href="https://tokenpet.ai/"><img src="assets/profile/tokenpet.svg" width="19.375%" align="top" alt="TokenPet"></a><a href="https://aiwings.app"><img src="assets/profile/wings.svg" width="50%" align="top" alt="Wings"></a><br>
+  <img src="assets/profile/footer.svg" width="100%" align="top" alt="">
 </p>
 
 <p align="center">
