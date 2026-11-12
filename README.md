@@ -23,6 +23,8 @@
 
 — 06 · **TokenPet** · A little egg is waiting for you to hatch it with tokens.
 
+— 07 · **Wings** · Queue your next prompt while the AI is busy, then paste it back in one click — a sidebar for Claude, ChatGPT and other desktop AI apps.
+
 ---
 
 **中文**
@@ -41,6 +43,8 @@
 
 — 06 · **TokenPet** · 一个小小的蛋，正在等待你用 Token 来孵化它。
 
+— 07 · **Wings** · AI 正忙时，先把下一句话存进 Wings，等它空了，点一下就贴回输入框 —— 吸附在 Claude、ChatGPT 等 AI 桌面应用旁的侧栏。
+
 ---
 
 <p align="center">
@@ -49,5 +53,6 @@
   <a href="https://coffeecli.com">coffeecli.com</a> &nbsp;·&nbsp;
   <a href="https://tiervibe.com">tiervibe.com</a> &nbsp;·&nbsp;
   <a href="https://tiernote.org/">tiernote.org</a> &nbsp;·&nbsp;
-  <a href="https://tokenpet.ai/">tokenpet.ai</a>
+  <a href="https://tokenpet.ai/">tokenpet.ai</a> &nbsp;·&nbsp;
+  <a href="https://aiwings.app">aiwings.app</a>
 </p>
