@@ -2,6 +2,7 @@
   <img src="assets/profile/header.svg" width="100%" align="top" alt="Edison7009 development works"><br>
   <a href="https://echobird.ai"><img src="assets/profile/echobird.svg" width="30.625%" align="top" alt="EchoBird"></a><a href="https://coffeecli.com"><img src="assets/profile/coffee-cli.svg" width="19.375%" align="top" alt="Coffee CLI"></a><a href="https://tiervibe.com"><img src="assets/profile/tiervibe.svg" width="19.375%" align="top" alt="TierVibe"></a><a href="https://openlongevity.life"><img src="assets/profile/open-longevity.svg" width="30.625%" align="top" alt="Open Longevity"></a><br>
   <a href="https://tiernote.org/"><img src="assets/profile/tiernote.svg" width="30.625%" align="top" alt="TierNote"></a><a href="https://tokenpet.ai/"><img src="assets/profile/tokenpet.svg" width="19.375%" align="top" alt="TokenPet"></a><a href="https://aiwings.app"><img src="assets/profile/wings.svg" width="50%" align="top" alt="Wings"></a><br>
+  <a href="https://github.com/edison7009/Playmand"><img src="assets/profile/playmand.svg" width="100%" align="top" alt="Playmand"></a><br>
   <img src="assets/profile/footer.svg" width="100%" align="top" alt="">
 </p>
 
@@ -28,6 +29,8 @@
 
 — 07 · **Wings** · Queue your next prompt while the AI is busy, then paste it back in one click — a sidebar for Claude, ChatGPT and other desktop AI apps.
 
+— 08 · **Playmand** · Claude Code · Codex · A Rust + Bevy skill that makes AI agents fluent at building games and videos — and they actually look good.
+
 ---
 
 **中文**
@@ -47,6 +50,8 @@
 — 06 · **TokenPet** · 一个小小的蛋，正在等待你用 Token 来孵化它。
 
 — 07 · **Wings** · AI 正忙时，先把下一句话存进 Wings，等它空了，点一下就贴回输入框 —— 吸附在 Claude、ChatGPT 等 AI 桌面应用旁的侧栏。
+
+— 08 · **Playmand** · Claude Code · Codex · 让 AI 熟练地用 Rust + Bevy 做出游戏和视频，而且效果出色。
 
 ---
 
