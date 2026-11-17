@@ -29,7 +29,7 @@
 
 — 07 · **Wings** · Queue your next prompt while the AI is busy, then paste it back in one click — a sidebar for Claude, ChatGPT and other desktop AI apps.
 
-— 08 · **Playmand** · Claude Code · Codex · A Rust + Bevy skill that makes AI agents fluent at building games and videos — and they actually look good.
+— 08 · **Playmand** · Claude Code · A Rust + Bevy skill that makes AI agents fluent at building games and videos — and they actually look good.
 
 ---
 
@@ -51,7 +51,7 @@
 
 — 07 · **Wings** · AI 正忙时，先把下一句话存进 Wings，等它空了，点一下就贴回输入框 —— 吸附在 Claude、ChatGPT 等 AI 桌面应用旁的侧栏。
 
-— 08 · **Playmand** · Claude Code · Codex · 让 AI 熟练地用 Rust + Bevy 做出游戏和视频，而且效果出色。
+— 08 · **Playmand** · Claude Code · 让 AI 熟练地用 Rust + Bevy 做出游戏和视频，而且效果出色。
 
 ---
 
